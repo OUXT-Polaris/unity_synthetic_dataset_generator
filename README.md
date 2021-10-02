@@ -1,2 +1,2 @@
 # unity_synthetic_dataset_generator
-Unity上で自動的に学習データを生成する
+Generating Teacher Images in Unity 
